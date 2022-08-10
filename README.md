@@ -1,0 +1,2 @@
+# MyImageHost
+for typora
